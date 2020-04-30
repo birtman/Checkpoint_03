@@ -93,3 +93,5 @@ Here are the user stories of these additional features:
 
 And one last one (a super-super-bonus): as a user, I want to be able to find all the playlists containing songs by a certain artist.
 # Checkpoint03
+# Checkpoint03
+# Checkpoint_03
